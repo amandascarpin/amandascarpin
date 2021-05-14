@@ -2,7 +2,7 @@
 👋 Hi, I’m a business-minded mechanical engineer turned data analyst.
 
 ## Articles
-<a href="https://medium.com/@amandascarpin"><img align="left" alt="medium" width="20px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png"/>__[Stunning Dataviz in S-H-O-W 2021](https://medium.com/nightingale/stunning-dataviz-in-s-h-o-w-2021-d075add0c36b)__ - in this article, I write about eight impactful projects presented in GraphicHunter’s 2021 conference.
+<a href="https://medium.com/@amandascarpin"><img align="left" alt="medium" width="20px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png"/>__[Stunning Dataviz in S-H-O-W 2021](https://medium.com/nightingale/stunning-dataviz-in-s-h-o-w-2021-d075add0c36b)__ - in this article, I write about eight impactful dataviz projects presented in GraphicHunter’s 2021 conference.
 
 <a href="https://medium.com/@amandascarpin"><img align="left" alt="medium" width="20px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png"/>__[Actions to make your graphics accessible to colorblind](https://medium.com/data-hackers/a%C3%A7%C3%B5es-simples-para-tornar-seus-gr%C3%A1ficos-acess%C3%ADveis-para-dalt%C3%B4nicos-85ec0eefff5b)__ - in this article, I intend to contextualize the different types of color blindness and bring tips and examples on how to make data visualizations more user-friendly (in Portuguese).
 
