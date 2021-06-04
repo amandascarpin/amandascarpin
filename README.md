@@ -1,5 +1,5 @@
 ### Amanda Scarpin
-👋 Hi, I’m a business-minded mechanical engineer turned data analyst.
+👋 Hi, I’m a business-minded mechanical engineer who loves technology.
 
 ## Articles
 <a href="https://medium.com/@amandascarpin"><img align="left" alt="medium" width="20px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png"/>__[Stunning Dataviz in S-H-O-W 2021](https://medium.com/nightingale/stunning-dataviz-in-s-h-o-w-2021-d075add0c36b)__ - in this article, I write about eight impactful dataviz projects presented in GraphicHunter’s 2021 conference.
