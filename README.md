@@ -2,6 +2,10 @@
 👋 Hi, I’m a business-minded mechanical engineer who loves technology, product and data.
 
 ## Articles
+
+<a href="https://medium.com/@amandascarpin"><img align="left" alt="medium" width="20px"
+src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/>__[Creativity is Commitment: How Agile Principles Got My Side Project Off the Ground](https://medium.com/mulheres-de-produto/criatividade-%C3%A9-compromisso-como-os-princ%C3%ADpios-%C3%A1geis-tiraram-meu-projeto-paralelo-do-papel-c731053ff56c)__ - Here I share my experience with my travel writing project 
+
 <a href="https://medium.com/@amandascarpin"><img align="left" alt="medium" width="20px" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/>__[Stunning Dataviz in S-H-O-W 2021](https://medium.com/nightingale/stunning-dataviz-in-s-h-o-w-2021-d075add0c36b)__ - in this article, I write about eight impactful dataviz projects presented in GraphicHunter’s 2021 conference.
 
 <a href="https://medium.com/@amandascarpin"><img align="left" alt="medium" width="20px" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/>__[Actions to make your graphics accessible to colorblind](https://medium.com/data-hackers/a%C3%A7%C3%B5es-simples-para-tornar-seus-gr%C3%A1ficos-acess%C3%ADveis-para-dalt%C3%B4nicos-85ec0eefff5b)__ - in this article, I intend to contextualize the different types of color blindness and bring tips and examples on how to make data visualizations more user-friendly (in Portuguese).
