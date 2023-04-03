@@ -4,7 +4,7 @@
 ## Articles
 
 <a href="https://medium.com/@amandascarpin"><img align="left" alt="medium" width="20px"
-src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/>__[Creativity is Commitment: How Agile Principles Got My Side Project Off the Ground](https://medium.com/mulheres-de-produto/criatividade-%C3%A9-compromisso-como-os-princ%C3%ADpios-%C3%A1geis-tiraram-meu-projeto-paralelo-do-papel-c731053ff56c)__ - here I share my experience with my travel writing project (in Portuguese)
+src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/>__[Creativity is a Commitment: How Agile Principles Got My Side Project Off the Ground](https://medium.com/mulheres-de-produto/criatividade-%C3%A9-compromisso-como-os-princ%C3%ADpios-%C3%A1geis-tiraram-meu-projeto-paralelo-do-papel-c731053ff56c)__ - here I share my experience with my travel writing project (in Portuguese)
 
 <a href="https://medium.com/@amandascarpin"><img align="left" alt="medium" width="20px" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/>__[Stunning Dataviz in S-H-O-W 2021](https://medium.com/nightingale/stunning-dataviz-in-s-h-o-w-2021-d075add0c36b)__ - eight impactful dataviz projects that caught my attention in GraphicHunter’s 2021 conference.
 
