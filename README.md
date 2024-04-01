@@ -1,5 +1,5 @@
 ### Amanda Scarpin
-👋 Hi, I’m a business-minded mechanical engineer turned product manager. I love working with data and technical products.
+👋 Hi, I’m a business-minded mechanical engineer turned product manager. I love working with tech products and data.
 
 ## Articles
 
